@@ -20,12 +20,12 @@ Python 3, standard modules only
 
 ## Usage
 
-  usage: ctdump.py [-h] [-o OUTPUT] domain
-
-  positional arguments:
-    domain                Target domain.
-  
-  optional arguments:
-    -h, --help            show this help message and exit
-    -o OUTPUT, --output OUTPUT
-                          Output file.
+    usage: ctdump.py [-h] [-o OUTPUT] domain
+    
+    positional arguments:
+      domain                Target domain.
+    
+    optional arguments:
+      -h, --help            show this help message and exit
+      -o OUTPUT, --output OUTPUT
+                            Output file.
